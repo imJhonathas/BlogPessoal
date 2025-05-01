@@ -23,6 +23,14 @@
 
     <!-- DEPENDÊNCIAS -->
     <dependencies>
+    
+    <dependency>
+    <groupId>org.postgresql</groupId>
+    <artifactId>postgresql</artifactId>
+    <version>42.7.3</version>
+    <scope>runtime</scope>
+</dependency>
+
 
         <!-- Spring Boot Starter Web -->
         <dependency>
